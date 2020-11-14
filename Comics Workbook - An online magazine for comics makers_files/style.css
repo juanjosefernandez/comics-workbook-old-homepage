@@ -1,0 +1,76 @@
+.wp-post-navigation {
+	clear: both;
+	margin: 0 0 20px;
+	overflow: hidden;
+}
+.wp-post-navigation div{
+	display: block;
+	width: 245px;
+	position: relative;
+	font-size: 14px;
+	color: #999;
+	min-height: 26px;
+}
+.wp-post-navigation-pre{
+	float: left;
+	line-height: 16px;
+	padding-left: 40px;
+}
+.wp-post-navigation-next{
+	float: right;
+	text-align: right;
+	line-height: 16px;
+	padding-right: 40px;
+}
+.wp-post-navigation > div > a > span{
+	font-size: 26px;
+}
+.wp-post-navigation div a:after {
+	position: absolute;
+	color: #ccc;
+	font-size: 56px;
+	margin-top: -11px;
+	height: 22px;
+	line-height: 22px;
+	top: 34%;
+}
+.wp-post-navigation-pre a:after {
+	content: '«';
+	left: 0;
+}
+.wp-post-navigation-next a:after {
+	content: '»';
+	right: 0;
+}
+.wp-post-navigation-pre-1{
+	float: left;
+	line-height: 16px;
+	padding-left: 5px;
+}
+.wp-post-navigation-next-1{
+	float: right;
+	text-align: right;
+	line-height: 16px;
+	padding-right: 5px;
+}
+/*
+     FILE ARCHIVED ON 16:22:54 Nov 11, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:58:37 Nov 12, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 476.301 (2)
+  CDXLines.iter: 24.518 (3)
+  captures_list: 705.723
+  LoadShardBlock: 636.463 (3)
+  PetaboxLoader3.datanode: 799.025 (5)
+  RedisCDXSource: 40.374
+  esindex: 0.014
+  exclusion.robots: 0.225
+  load_resource: 750.849 (2)
+  exclusion.robots.policy: 0.208
+*/

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document created by the A5 Plugin Framework */
+
+/* CSS portion of the Advanced Featured Post Widget */
+
+div.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] ,li.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] ,aside.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] ,section.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] {
+	-moz-hyphens: auto;
+	-o-hyphens: auto;
+	-webkit-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+}
+div.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] img,li.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] img,aside.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] img,section.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] img{
+	height: auto;
+	max-width: 100%;
+}
+div.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] a,li.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] a,aside.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] a,section.widget_advanced_featured_post_widget[id^="advanced_featured_post_widget"] a{
+	color: #ffff00;
+}
+
+/*
+     FILE ARCHIVED ON 10:55:05 Nov 11, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:58:39 Nov 12, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 378.876
+  exclusion.robots: 0.168
+  exclusion.robots.policy: 0.154
+  RedisCDXSource: 11.288
+  esindex: 0.016
+  LoadShardBlock: 332.061 (3)
+  PetaboxLoader3.datanode: 677.884 (5)
+  CDXLines.iter: 27.129 (3)
+  load_resource: 718.344 (2)
+  PetaboxLoader3.resolve: 187.456 (2)
+*/
